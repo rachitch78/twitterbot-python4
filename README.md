@@ -1,2 +1,6 @@
 # twitterbot-python4
-A twitter bot based on python made with the help of a tutorial
+A twitter  auto liker bot based on python made with the help of a tutorial
+modeles used are
+1) Tkinter 
+2) pyautogui
+3) selenium
